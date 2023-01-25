@@ -1,2 +1,1 @@
-# Projects
-Created with CodeSandbox
+# Grocery-List
